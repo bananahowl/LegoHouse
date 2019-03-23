@@ -1,7 +1,0 @@
-ControlLayer\LoginSampleException.class
-DataLayer\UserMapper.class
-FrontLayer\FrontController.class
-ControlLayer\Calculate.class
-ControlLayer\User.class
-ControlLayer\LogicFacade.class
-DataLayer\Connector.class
